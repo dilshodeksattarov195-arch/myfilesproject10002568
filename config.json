@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteecrypt",
+        "uuid": 20893248,
+        "checksum": "m41r4q"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
